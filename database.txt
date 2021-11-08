@@ -1,0 +1,9 @@
+Lname, Fname, DoB, Student #
+Amlani, Omar, 09/12/1999, 123321231
+Singh, Amardeep, 11/24/2001, 789321931
+David, Robin, 10/12/2001, 123543234
+Lam, Lisa, 09/12/2000, 789654456
+Persad, Cheryl, 08/31/1999, 971340234
+Peraud, Kamita, 03/06/2001, 976876567
+Luu, Kien, 20/07/1999, 973987234
+Smith, John, 10/03/2000, 345653823
